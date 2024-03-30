@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "928496178245",
+    "firebase_url": "https://fir-webrtc-2a3bd-default-rtdb.firebaseio.com",
+    "project_id": "fir-webrtc-2a3bd",
+    "storage_bucket": "fir-webrtc-2a3bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928496178245:android:6f7124647725990e663f2c",
+        "android_client_info": {
+          "package_name": "com.dhruv194.firebasewebrtc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDelNUXtNabrH71OrgM7iVJ5XrcquKPmxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
