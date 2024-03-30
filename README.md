@@ -27,7 +27,9 @@
 > - Video Call Camera Functionality: Although I attempted to troubleshoot the issue extensively, the camera functionality for video calls did not work as intended. Despite correctly achieving the target user on both ends, I encountered a persistent bug preventing the transmission of the camera stream to the other user. Despite efforts, the root cause of this issue remains elusive.
 
 
+Video URL - [link](https://www.loom.com/share/2a014f1aac76445f9dad50097207340f?t=49&sid=b64c4f74-99c4-46a9-8e79-4c8868309032)
 
+Apk Link - [drive link](https://drive.google.com/file/d/1R2wY-zUuAhfuT55q6sgj5BNqIW-MAiGo/view?usp=drive_link)
 
 
 
