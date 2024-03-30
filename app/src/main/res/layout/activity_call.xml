@@ -34,7 +34,6 @@
             android:textColor="@color/white"
             android:padding="10dp"
             android:id="@+id/callTimerTv"
-            android:text="00:01"
             app:drawableStartCompat="@drawable/ic_record" />
 
         <TextView
@@ -47,7 +46,7 @@
             android:textColor="@color/white"
             android:padding="10dp"
             android:id="@+id/callTitleTv"
-            android:text="Video Call With Masoud"/>
+            android:text="Video Call"/>
     </androidx.constraintlayout.widget.ConstraintLayout>
 
 
